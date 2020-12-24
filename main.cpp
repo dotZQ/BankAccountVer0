@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  BankAccount
-//
-//  Created by ZQ314159 on 1/7/2563 BE.
-//  Copyright © 2563 ZQ314159. All rights reserved.
-//
-
 #include <iostream>
 #define MAX_ACCOUNT 10
 using namespace std;
